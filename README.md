@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Bandaru</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 📫 How to reach me **7569531260@naviaxis**
+- 📫 How to reach me **yashwanthbandaru64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
