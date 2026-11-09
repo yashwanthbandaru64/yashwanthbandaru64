@@ -1,11 +1,130 @@
-<h1 align="center">Hi 👋, I'm Yashwanth Bandaru</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+ <!-- Profile README for github.com/yashwanthbandaru64 -->
 
-- 📫 How to reach me **yashwanthbandaru64@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# Yashwanth Bandaru
+
+### Software Engineer | Full-Stack Developer | Cloud Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Exploring+Cloud+%26+Distributed+Systems;Developing+Full-Stack+Solutions;Learning+Cybersecurity+%26+Reverse+Engineering" alt="Typing SVG" />
+
+<p>
+  <a href="mailto:yashwanthbandaru64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yashwanthbandaru64">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Science Engineering student passionate about building practical software solutions and exploring modern technologies.
+
+- Interested in **Full-Stack Development and Software Engineering**.
+- Working with Java, Spring Boot, React and backend technologies.
+- Exploring Cloud Computing, AWS and DevOps.
+- Interested in Microservices, Distributed Systems and Cybersecurity.
+- Constantly improving my problem-solving and DSA skills.
+
+My goal is to build scalable, secure and impactful applications while continuously expanding my technical knowledge.
+
+---
+
+## Tech Stack
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
+</p>
+
+**Frontend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+**Backend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+**Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
+</p>
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,linux" />
+</p>
+
+---
+
+## Featured Projects
+
+### Distributed Online Examination & Automated Evaluation Engine
+
+A microservices-based examination platform designed for secure online examinations, submission management and automated evaluation workflows.
+
+**Technologies:** Java, Spring Boot, Microservices, Eureka, API Gateway, JWT.
+
+[View Project](https://github.com/yashwanthbandaru64/soa-sdp-onlineexamination-Evaluation)
+
+---
+
+### More Projects
+
+Explore my repositories for more projects involving full-stack development, cloud infrastructure, backend engineering and experimentation with emerging technologies.
+
+[Explore Repositories](https://github.com/yashwanthbandaru64?tab=repositories)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashwanthbandaru64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthbandaru64&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="65%" src="https://streak-stats.demolab.com?user=yashwanthbandaru64&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthbandaru64&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect and Build Something Great!
+
+*Learning. Building. Improving. Repeating.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+
+</div>
